@@ -1,0 +1,14 @@
+{
+  "name": "soilang",
+  "version": "1.0.0",
+  "description": "Website for SOIL lang",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
